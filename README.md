@@ -1,0 +1,1 @@
+This project was created as part of Academic Research at Amity University Raipur. The purpose of this project is to measure the water level using arduino and ultrasonic sensor and display the result in monitor for further analysis.
